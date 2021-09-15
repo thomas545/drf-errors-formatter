@@ -8,8 +8,8 @@ which allows you to format errors in all project.
 Requirements
 ============
 
-- Python (3.7+)
-- Django (2.2+)
+- Python (3.6+)
+- Django (2.0+)
 - djangorestframework (3.8+)
 
 Installation
